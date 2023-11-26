@@ -1,7 +1,7 @@
 # my-first-repository
 ### My name is Ermak from polesskaya
 
-![my photo](http://mozlicey.by/files/data/2023-2024/2023-09-29/01.jpg)
+![my photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprimamedia.ru%2Fnews%2F1453940%2F%3Ffrom%3D37&psig=AOvVaw1y6olYDT9biwGLPxu0AGvQ&ust=1701081056953000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj00_a64YIDFQAAAAAdAAAAABAD)
 
 
 **I'm javascript developer.**
